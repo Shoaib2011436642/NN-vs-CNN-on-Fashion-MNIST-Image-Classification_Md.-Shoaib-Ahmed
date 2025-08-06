@@ -26,3 +26,11 @@ Fashion MNIST simulates a real-world scenario of classifying clothing and access
 
 ## Expected Results
 CNN is expected to significantly outperform the dense-only NN, especially on unseen validation data. The accuracy gap clearly reflects the CNN’s superior ability to generalize image-based patterns.
+
+---
+
+## Author
+
+**Md. Shoaib Ahmed Afif**   
+ B.Sc. in CSE – North South University  
+ [LinkedIn](https://www.linkedin.com/in/md-shoaib-ahmed-133562207/)
